@@ -1,6 +1,6 @@
 # Assessing English accent similarity using various audio-to-embedding schemes and dimensionality reduction methods
 
-### CSE256 S23
+### CSE256 SP23
 ### Authors: Katya Katsy, Mason Kellogg, Morgan Lafferty, Sean Lindstrom
 
 Welcome to our project page! If you would like to run our embedding/ clustering code yourself please follow the instructions below:
